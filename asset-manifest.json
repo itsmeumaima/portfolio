@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/itsmeumaima/portfolio/static/css/main.0c4c851a.css",
+    "main.js": "/itsmeumaima/portfolio/static/js/main.3016b686.js",
+    "static/media/pic(umaima).jpg": "/itsmeumaima/portfolio/static/media/pic(umaima).cabc959dab3df7b3cb29.jpg",
+    "static/media/laptop_dashboard.jpg": "/itsmeumaima/portfolio/static/media/laptop_dashboard.8fd18b3cc0ea18eb086f.jpg",
+    "static/media/lms_dashboard.png": "/itsmeumaima/portfolio/static/media/lms_dashboard.e537c7f03c3eee2dd20c.png",
+    "static/media/critical-thinking.png": "/itsmeumaima/portfolio/static/media/critical-thinking.fd179e7ef6f717dd5bca.png",
+    "static/media/teamwork.png": "/itsmeumaima/portfolio/static/media/teamwork.99eaaec0c3f8cdf19bdb.png",
+    "static/media/problem-solving.png": "/itsmeumaima/portfolio/static/media/problem-solving.fcaec8c8a88b0451ea67.png",
+    "static/media/time-management.png": "/itsmeumaima/portfolio/static/media/time-management.6c1043124734addc3e35.png",
+    "static/media/english.png": "/itsmeumaima/portfolio/static/media/english.3719ca7fc50bfc3ea89c.png",
+    "static/media/sms_dashboard.png": "/itsmeumaima/portfolio/static/media/sms_dashboard.e21b34fe874698d67cff.png",
+    "static/media/urdu.PNG": "/itsmeumaima/portfolio/static/media/urdu.1bad98950f4bfdfa5255.PNG",
+    "static/media/movie_dashboard.jpeg": "/itsmeumaima/portfolio/static/media/movie_dashboard.7b8b90068966a6fcb29e.jpeg",
+    "index.html": "/itsmeumaima/portfolio/index.html",
+    "main.0c4c851a.css.map": "/itsmeumaima/portfolio/static/css/main.0c4c851a.css.map",
+    "main.3016b686.js.map": "/itsmeumaima/portfolio/static/js/main.3016b686.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4c851a.css",
+    "static/js/main.3016b686.js"
+  ]
+}
