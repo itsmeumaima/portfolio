@@ -1,5 +1,6 @@
 {
-  "homepage": "https://github.com/itsmeumaima/portfolio",
+  "homepage": "https://itsmeumaima.github.io/portfolio"
+,
   "name": "portfolio-web",
   "version": "0.1.0",
   "private": true,
@@ -47,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YoonusAjward/Personal-Portfolio-Website.git"
+    "url": "git+https://github.com/itsmeumaima/portfolio.git"
   }
 }
